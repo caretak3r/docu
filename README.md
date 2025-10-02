@@ -2,6 +2,14 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Prerequisites
+
+This project requires Node.js version `lts/gallium` or greater. We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your Node.js versions.
+
+```bash
+nvm use
+```
+
 ## Installation
 
 ```bash
