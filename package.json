@@ -39,6 +39,6 @@
     ]
   },
   "engines": {
-    "node": "lts/gallium"
+    "node": ">=20"
   }
 }
