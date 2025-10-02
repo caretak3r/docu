@@ -1,8 +1,8 @@
-# Protegrity Documentation
+# protoBolt Documentation
 
-Welcome to the Protegrity documentation!
+Welcome to the protoBolt documentation!
 
-This documentation provides everything you need to get started with Protegrity.
+This documentation provides everything you need to get started with protoBolt.
 
 ## Getting Started
 

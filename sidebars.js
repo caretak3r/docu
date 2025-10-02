@@ -16,27 +16,27 @@
  */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
-    protegritySidebar: [
+    protoBoltSidebar: [
     {
       type: 'category',
-      label: 'Protegrity Docs',
+      label: 'protoBolt Docs',
       items: [
-        'protegrity-docs/index',
+        'protoBolt-docs/index',
         {
           type: 'category',
           label: 'Getting Started',
           items: [
-            'protegrity-docs/getting-started/prerequisites',
-            'protegrity-docs/getting-started/installing-the-platform',
-            'protegrity-docs/getting-started/installing-the-product',
+            'protoBolt-docs/getting-started/prerequisites',
+            'protoBolt-docs/getting-started/installing-the-platform',
+            'protoBolt-docs/getting-started/installing-the-product',
           ],
         },
         {
           type: 'category',
           label: 'Kubernetes',
           items: [
-            'protegrity-docs/kubernetes/overview',
-            'protegrity-docs/kubernetes/helm-charts',
+            'protoBolt-docs/kubernetes/overview',
+            'protoBolt-docs/kubernetes/helm-charts',
           ],
         },
       ],

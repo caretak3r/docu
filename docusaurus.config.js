@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Protegrity',
+  title: 'protoBolt',
   tagline: 'Secure Your Data',
   favicon: 'img/favicon.ico',
 
@@ -20,12 +20,12 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs.protegrity.com',
-  baseUrl: '/',
+  url: 'https://docs.protoBolt.com',
+  baseUrl: '/docu/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'protegrity', // Usually your GitHub org/user name.
+  organizationName: 'protoBolt', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/protegrity/docs/tree/main/',
+            'https://github.com/protoBolt/docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -75,12 +75,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'protegritySidebar',
+            sidebarId: 'protoBoltSidebar',
             position: 'left',
-            label: 'Protegrity Docs',
+            label: 'protoBolt Docs',
           },
           {
-            href: 'https://github.com/protegrity/docs',
+            href: 'https://github.com/protoBolt/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/protegrity/docs',
+                href: 'https://github.com/protoBolt/docs',
               },
             ],
           },
